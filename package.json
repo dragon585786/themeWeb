@@ -1,0 +1,24 @@
+{
+  "name": "sysgeneration.com",
+  "version": "2.0.0",
+  "description": "makes apps, websites, web application & what ever user want  ",
+  "main": "index.html",
+  "scripts": {
+    "test": "salim"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dragon585786/themeWeb.git"
+  },
+  "keywords": [
+    "websites",
+    "app",
+    "etc"
+  ],
+  "author": "Sachin/salim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dragon585786/themeWeb/issues"
+  },
+  "homepage": "https://github.com/dragon585786/themeWeb#readme"
+}
