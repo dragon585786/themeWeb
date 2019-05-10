@@ -41,7 +41,7 @@
 	
 	.header-area {
 		text-align: center;
-	}
+		background: linear-gradient(to right, rgb(209, 12, 193) , rgb(5, 181, 240) );
 	.header-area .header-info {
 		display: none;
 	}
@@ -861,6 +861,7 @@
 
 	.header-area .header-info li:last-child {
 		display: none;
+		background-color: #34f1ff;
 	}
 	
 	.navbar .row {

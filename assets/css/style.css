@@ -55,7 +55,8 @@ Default CSS
 body {
     font-family: 'Nunito Sans', sans-serif;
     padding: 0;
-    margin: 0;
+	margin: 0;
+	background: linear-gradient(to right, rgb(209, 12, 193) , rgb(5, 181, 240) );
 }
 a {
 	outline: 0 !important;
@@ -95,7 +96,8 @@ p {
 	line-height: 1.6;
 }
 .bg-fbf9f8 {
-    background: #fbf9f8;
+	/* background: #fbf9f8; */
+	/* background: linear-gradient(to right, rgb(5, 181, 240) , rgb(209, 12, 193)); */
 }
 .ptb-100 {
     padding-top: 100px;
@@ -323,7 +325,7 @@ Preloader CSS
 Header CSS
 ===============================*/
 .header-area {
-	background: #ff6d34;
+	background: linear-gradient(to right, rgb(5, 181, 240) , rgb(209, 12, 193));
 	padding: 10px 0;
 }
 .header-area ul {
@@ -406,7 +408,9 @@ Navbar CSS
 	position: fixed;
 }
 .bg-light {
-	background-color: transparent !important;
+	/* background-color: transparent !important; */
+	background: linear-gradient(to right, rgb(5, 181, 240) , rgb(209, 12, 193));
+	
 }
 .navbar-light.is-sticky {
 	position: fixed;
