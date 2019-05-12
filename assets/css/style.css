@@ -445,7 +445,7 @@ Navbar CSS
 	padding-right: 0;
 }
 .navbar-light .navbar-nav .nav-link {
-	color: #283a5e;
+	color: white;
 	font-size: 17px;
 	padding: 0;
 	font-weight: 500;
@@ -475,6 +475,7 @@ Navbar CSS
 	visibility: hidden;
     -webkit-transition-duration: .3s;
 	transition-duration: .4s;
+	
 }
 .navbar-light .navbar-nav .nav-item:hover .dropdown-menu {
     top: 100%;
