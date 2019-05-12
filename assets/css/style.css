@@ -1298,6 +1298,7 @@ Analysis CSS
 	font-size: 28px;
 	margin-bottom: 30px;
 	font-weight: 700;
+	
 }
 .analysis-form form .btn {
 	display: block;
@@ -1309,18 +1310,21 @@ Analysis CSS
 	position: relative;
 	z-index: 1;
 	margin-top: 25px;
+	color:white;
 }
 .analysis-text span {
 	color: #ff6d34;
 	font-size: 16px;
 	font-weight: 400;
 	text-transform: capitalize;
+	color:white;
 }
 .analysis-text h3 {
 	font-size: 36px;
 	font-weight: 700;
 	margin: 15px 0 25px;
 	line-height: 40px;
+	color:white;
 }
 .analysis-text ul {
 	padding: 0;
@@ -1329,7 +1333,7 @@ Analysis CSS
 }
 .analysis-text ul li {
 	position: relative;
-	color: #828893;
+	color:white;
 	margin-bottom: 15px;
 	padding-left: 30px;
 }
