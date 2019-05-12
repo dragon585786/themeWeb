@@ -1189,7 +1189,7 @@ Services CSS
 }
 .single-services p, .single-services h3 {
 	-webkit-transition: .4s;
-	-moz-transition: .4s;
+	-moz-transition: .4s;background-color: white ;
 	transition: .4s;
 }
 .single-services:hover p, .single-services:hover h3 {
@@ -1272,15 +1272,28 @@ Analysis CSS
 .analysis-area {
 	position: relative;
 	overflow: hidden;
+	padding-top: 40px;
+	margin-top: 40px;
+	border-radius: 10px;
+	border-top: 10px;
+	background-image: url(/banner-image/universe-1566161_1920.jpg);
+	
+
 }
 .analysis-form {
-	background: #ffffff;
+	/* background: linear-gradient(to right, rgb(78, 235, 247) , rgb(189, 23, 240)); */
 	-webkit-box-shadow: 5px 7px 30px rgba(72,73,121,0.15);
+	background-color: rgb(138, 252, 252);
 	box-shadow: 5px 7px 30px rgba(72,73,121,0.15);
 	padding: 40px;
-	border-radius: 5px;
+	padding-top: 40px;
+	margin-top: 40px;
+	border-radius: 10px;
+	border-top: 10px;
 	text-align: center;
+	
 }
+
 .analysis-form h3 {
 	font-size: 28px;
 	margin-bottom: 30px;
